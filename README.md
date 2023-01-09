@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Choo Areum</h1>
 <h3 align="center">An Android developer from South KOREA</h3>
 
-- 🌱 I’m currently learning **Jetpack compose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
